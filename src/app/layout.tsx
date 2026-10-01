@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "PrecioCocha | Precios claros, mejores decisiones",
+  title: "PrecioBol | Compara precios en un solo lugar",
   description:
-    "PrecioCocha te ayudará a buscar y comparar precios de productos en comercios de Bolivia, comenzando por Cochabamba.",
+    "Busca un producto y descubre dónde encontrarlo al mejor precio. Comenzamos en Cochabamba, Bolivia.",
 };
 
 export default function RootLayout({
